@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa27bd76-e625-42b8-92c1-c6b9e7404e45" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.env.development" beforeDir="false" afterPath="$PROJECT_DIR$/.env.development" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.env.production" beforeDir="false" afterPath="$PROJECT_DIR$/.env.production" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +53,7 @@
       <workItem from="1606369098337" duration="382000" />
       <workItem from="1606369613317" duration="976000" />
       <workItem from="1606374058748" duration="4000" />
-      <workItem from="1606374080149" duration="1020000" />
+      <workItem from="1606374080149" duration="1484000" />
     </task>
     <task id="LOCAL-00001" summary="Typescript support added">
       <created>1606370119685</created>
@@ -82,7 +76,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606374798783</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Material UI added">
+      <created>1606375343088</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606375343088</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,7 +94,8 @@
     <MESSAGE value="Typescript support added" />
     <MESSAGE value="Removed unused imports" />
     <MESSAGE value="Configured Development and Production environments" />
-    <option name="LAST_COMMIT_MESSAGE" value="Configured Development and Production environments" />
+    <MESSAGE value="Material UI added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Material UI added" />
   </component>
   <component name="WindowStateProjectService">
     <state x="458" y="247" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606374277539">
@@ -104,13 +106,17 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="201" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1606372530107" />
-    <state x="307" y="25" width="825" height="797" key="CommitChangelistDialog2" timestamp="1606374798616">
+    <state x="307" y="25" width="825" height="797" key="CommitChangelistDialog2" timestamp="1606375342903">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="307" y="25" width="825" height="797" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1606374798616" />
-    <state x="320" y="183" key="Vcs.Push.Dialog.v2" timestamp="1606374816719">
+    <state x="307" y="25" width="825" height="797" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1606375342903" />
+    <state x="320" y="183" key="Vcs.Push.Dialog.v2" timestamp="1606375450239">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="183" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1606374816719" />
+    <state x="320" y="183" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1606375450239" />
+    <state x="383" y="194" width="672" height="678" key="search.everywhere.popup" timestamp="1606375566800">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="383" y="194" width="672" height="678" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1606375566800" />
   </component>
 </project>

@@ -1,6 +1,6 @@
 {
-  "name": "unionstore-webapp",
-  "version": "0.1.0",
+  "name": "nextjs-ts-material-template-Template",
+  "version": "1.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
