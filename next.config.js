@@ -1,5 +1,5 @@
 module.exports = {
     env: {
-        TEST: process.env.TEST,
+        ENVIRONMENT_TYPE: process.env.ENVIRONMENT_TYPE,
     },
 };
