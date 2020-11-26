@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa27bd76-e625-42b8-92c1-c6b9e7404e45" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.env.development" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.env.production" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
     </list>
@@ -53,6 +56,8 @@
       <updated>1606369096674</updated>
       <workItem from="1606369098337" duration="382000" />
       <workItem from="1606369613317" duration="976000" />
+      <workItem from="1606374058748" duration="4000" />
+      <workItem from="1606374080149" duration="444000" />
     </task>
     <task id="LOCAL-00001" summary="Typescript support added">
       <created>1606370119685</created>
@@ -61,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606370119685</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Removed unused imports">
+      <created>1606372552593</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606372552593</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -70,20 +82,25 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Typescript support added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Typescript support added" />
+    <MESSAGE value="Removed unused imports" />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed unused imports" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="458" y="247" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606374277539">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="247" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1606374277539" />
     <state x="458" y="201" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606372530107">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="458" y="201" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1606372530107" />
-    <state x="307" y="25" width="825" height="797" key="CommitChangelistDialog2" timestamp="1606370119496">
+    <state x="307" y="25" width="825" height="797" key="CommitChangelistDialog2" timestamp="1606372552460">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="307" y="25" width="825" height="797" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1606370119496" />
-    <state x="320" y="183" key="Vcs.Push.Dialog.v2" timestamp="1606370139406">
+    <state x="307" y="25" width="825" height="797" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1606372552460" />
+    <state x="320" y="183" key="Vcs.Push.Dialog.v2" timestamp="1606372566679">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="183" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1606370139406" />
+    <state x="320" y="183" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1606372566679" />
   </component>
 </project>
