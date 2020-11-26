@@ -2,17 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa27bd76-e625-42b8-92c1-c6b9e7404e45" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/styles/variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/api/hello.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/api/hello.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/Home.module.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/globals.scss" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="SCSS File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
@@ -35,6 +44,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
     <property name="vue.rearranger.settings.migration" value="true" />
@@ -48,8 +58,16 @@
       <option name="presentableId" value="Default" />
       <updated>1606369096674</updated>
       <workItem from="1606369098337" duration="382000" />
-      <workItem from="1606369613317" duration="389000" />
+      <workItem from="1606369613317" duration="976000" />
     </task>
+    <task id="LOCAL-00001" summary="Typescript support added">
+      <created>1606370119685</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606370119685</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -57,11 +75,21 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Typescript support added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Typescript support added" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="320" y="183" key="Vcs.Push.Dialog.v2" timestamp="1606369388014">
+    <state x="458" y="201" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606370541513">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="320" y="183" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1606369388014" />
+    <state x="458" y="201" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900@0.0.1440.900" timestamp="1606370541513" />
+    <state x="307" y="25" width="825" height="797" key="CommitChangelistDialog2" timestamp="1606370119496">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="307" y="25" width="825" height="797" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1606370119496" />
+    <state x="320" y="183" key="Vcs.Push.Dialog.v2" timestamp="1606370139406">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="320" y="183" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1606370139406" />
   </component>
 </project>
